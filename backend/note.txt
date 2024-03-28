@@ -1,0 +1,6 @@
+routs
+GET  /workouts  --> gets all the workout documents
+POST /workouts  --> creates a new workout document
+GET /workouts/:id --> Gets a single workout document
+DELETE /workouts/:id --> deletes a single workout
+PATCH /workouts/:id --> updates a single workout
